@@ -1,0 +1,3 @@
+Feature,Original Mean,Original Std,Scaled Mean,Scaled Std,Scaling Method
+Age,29.7,14.53,0.0,1.0,StandardScaler (z-score)
+Fare,32.2,49.69,0.0,1.0,StandardScaler (z-score)

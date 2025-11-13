@@ -1,0 +1,6 @@
+Feature,Original,Encoded,Meaning
+Sex,female,0,Female passenger
+Sex,male,1,Male passenger
+Embarked,C,0,Cherbourg
+Embarked,Q,1,Queenstown
+Embarked,S,2,Southampton
